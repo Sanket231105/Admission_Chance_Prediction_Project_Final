@@ -1,3 +1,5 @@
+#it's not a final project please check out the next another admission file 
+
 # Admission Chance Prediction Project
 # -------------------------------------------------
 # Predicts student's chance of admission using machine learning models
